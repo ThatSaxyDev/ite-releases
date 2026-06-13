@@ -5,7 +5,7 @@ Public binary releases for [iTE](https://ite.kiishi.space)
 iTE is an AI coding agent that runs in your terminal. 
 
 
-[![iTE Demo](https://ite.kiishi.space/ite-prev.png)](https://ite.kiishi.space/demo.mp4)
+![iTE Demo](https://ite.kiishi.space/demo.gif)
 
 ## Install
 
